@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on [SendPie](https://github.com/xmayukx/SendPie)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **NestJS**
 
 - 👯 I’m looking to collaborate on **projects based on NodeJS+Express and MongoDB**
 
-- 🤝 I’m looking for help with **React and Authentication**
+- 🤝 I’m looking for help with **NextJS**
 
 - 💬 Ask me about **Front-end and Back-end**
 
