@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [SendPie](https://github.com/xmayukx/SendPie)
 
-- 🌱 I’m currently learning **NestJS**
+- 🌱 I’m currently learning **NextJS**
 
 - 👯 I’m looking to collaborate on **projects based on NodeJS+Express and MongoDB**
 
