@@ -1,26 +1,11 @@
 ## About Me
 
-<div align="left">
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); grid-gap: 20px;">
-    <div>
-      <p style="text-align: left;">
-        🚀 Hi there! My name is Mayukh Hazari, a second-year student of Bachelor's in Computer Science and Engineering based in Kolkata, India.
-      </p>
-      <p style="text-align: left;">
-        As a full-stack web developer, I have a strong passion for building and creating innovative web projects 💻.
-      </p>
-      <p style="text-align: left;">
-        My Github profile showcases my portfolio of work that I have built so far.
-      </p>
-      <p style="text-align: left;">
-        I am always eager to connect with other developers in the community and contribute to the advancement of the field. 🤝👨‍💻
-      </p>
-      <p style="text-align: left;">
-        Let's connect and create something awesome together! 🚀🚀
-      </p>
-    </div>
-  </div>
-</div>
+- 🚀 Hi there! My name is **Mayukh Hazari**, a **second-year student** of **Bachelor's in Computer Science and Engineering** based in Kolkata, India.
+- As a **full-stack web developer**, I have a strong passion for **building and creating innovative web projects** 💻.
+- My **GitHub profile** showcases my portfolio of work that I have built so far.
+- I am always eager to connect with other developers in the community and contribute to the advancement of the field. 🤝👨‍💻
+- Let's **connect and create something awesome together**! 🚀🚀
+
 
 ## Skills
 
@@ -68,10 +53,10 @@
 <div align="center">
   <div id="stats-container" style="display: flex; flex-direction: colum;">
     <div id="githubstats">
-      <img src="https://github-readme-stats.vercel.app/api?username=xmayukx&theme=midnight-purple&show_icons=true&count_private=true&border_radius=15" alt="Mayukh's GitHub stats" width=525/>
+      <img src="https://github-readme-stats.vercel.app/api?username=xmayukx&theme=midnight-purple&show_icons=true&count_private=true&border_radius=15" alt="Mayukh's GitHub stats" width=500/>
     </div>&nbsp;&nbsp;&nbsp;&nbsp;
     <div id="streakstats">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=xmayukx&theme=midnight-purple&border_radius=15&count_private=true" width=550>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=xmayukx&theme=midnight-purple&border_radius=15&count_private=true" width=500>
     </div>
   </div>&nbsp;&nbsp;
   <div id="wakastats">
