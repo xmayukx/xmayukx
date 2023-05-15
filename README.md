@@ -53,13 +53,13 @@
 <div align="center">
   <div id="stats-container" style="display: flex; flex-direction: colum;">
     <div id="githubstats">
-      <img src="https://github-readme-stats.vercel.app/api?username=xmayukx&theme=midnight-purple&show_icons=true&count_private=true&border_radius=15" alt="Mayukh's GitHub stats" width=500/>
+      <img src="https://github-readme-stats.vercel.app/api?username=xmayukx&theme=midnight-purple&show_icons=true&count_private=true&border_radius=15" alt="Mayukh's GitHub stats" width=450/>
     </div>&nbsp;&nbsp;&nbsp;&nbsp;
     <div id="streakstats">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=xmayukx&theme=midnight-purple&border_radius=15&count_private=true" width=500>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=xmayukx&theme=midnight-purple&border_radius=15&count_private=true" width=450>
     </div>
   </div>&nbsp;&nbsp;
   <div id="wakastats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=xmayuk_hx&theme=midnight-purple&border_radius=15&count_private=true" alt="Top Languages used by Mayukh" width=500/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=xmayuk_hx&theme=midnight-purple&border_radius=15&count_private=true" alt="Top Languages used by Mayukh" width=450/>
   </div>
 </div>
