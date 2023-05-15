@@ -46,8 +46,6 @@
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="mailto:hazari.mayukh77@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://discord.com/channels/755645297744412785" target="_blank">
-<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </div>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <div align="center">
