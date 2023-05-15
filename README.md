@@ -1,8 +1,6 @@
-# Hi there, I'm Mayukh! 👋
-
 ## About Me
 
-<div align="center">
+<div align="left">
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); grid-gap: 20px;">
     <div>
       <p style="text-align: left;">
@@ -21,15 +19,12 @@
         Let's connect and create something awesome together! 🚀🚀
       </p>
     </div>
-    <div>
-      <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="GIF" style="max-width:70%; height: auto;">
-    </div>
   </div>
 </div>
 
 ## Skills
 
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
     <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
     <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
