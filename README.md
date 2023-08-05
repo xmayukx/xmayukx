@@ -1,6 +1,6 @@
  ## About Me
 
-- 🚀 Hi there! My name is **Mayukh Hazari**, a **second-year student** of **Bachelor's in Computer Science and Engineering** based in Kolkata, India.
+- 🚀 Hi there! My name is **Mayukh Hazari**, a **third-year student** of **Bachelor's in Computer Science and Engineering** based in Kolkata, India.
 - As a **full-stack web developer**, I have a strong passion for **building and creating innovative web projects** 💻.
 - My **GitHub profile** showcases my portfolio of work that I have built so far.
 - I am always eager to connect with other developers in the community and contribute to the advancement of the field. 🤝👨‍💻
