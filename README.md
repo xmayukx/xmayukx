@@ -51,10 +51,10 @@
 <div align="center">
   <div style="display: flex;">
     <div id="githubstats">
-      <img src="https://github-readme-stats.vercel.app/api?username=xmayukx&theme=midnight-purple&show_icons=true&count_private=true&border_radius=9" alt="Mayukh's GitHub stats" width=400/>
+      <img src="https://github-readme-stats.vercel.app/api?username=xmayukx&theme=midnight-purple&show_icons=true&count_private=false&border_radius=10" alt="Mayukh's GitHub stats" width=380/>
     </div>
     <div id="streakstats">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=xmayukx&theme=midnight-purple&border_radius=9&count_private=true" width=400>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=xmayukx&theme=midnight-purple&border_radius=9&count_private=true&border_radius=10" width=380>
     </div>
   </div>
 </div>
