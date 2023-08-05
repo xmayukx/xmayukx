@@ -1,4 +1,4 @@
-## About Me
+ ## About Me
 
 - 🚀 Hi there! My name is **Mayukh Hazari**, a **second-year student** of **Bachelor's in Computer Science and Engineering** based in Kolkata, India.
 - As a **full-stack web developer**, I have a strong passion for **building and creating innovative web projects** 💻.
@@ -46,18 +46,17 @@
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="mailto:hazari.mayukh77@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</div>&nbsp;&nbsp;&nbsp;&nbsp;
-
+</div>&nbsp;&nbsp;&nbsp;
+<!-- style="display: flex; flex-direction: row;" -->
 <div align="center">
-  <div id="stats-container" style="display: flex; flex-direction: colum;">
+  <div style="display: flex;">
     <div id="githubstats">
-      <img src="https://github-readme-stats.vercel.app/api?username=xmayukx&theme=midnight-purple&show_icons=true&count_private=true&border_radius=15" alt="Mayukh's GitHub stats" width=450/>
-    </div>&nbsp;&nbsp;&nbsp;&nbsp;
-    <div id="streakstats">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=xmayukx&theme=midnight-purple&border_radius=15&count_private=true" width=450>
+      <img src="https://github-readme-stats.vercel.app/api?username=xmayukx&theme=midnight-purple&show_icons=true&count_private=true&border_radius=9" alt="Mayukh's GitHub stats" width=400/>
     </div>
-  </div>&nbsp;&nbsp;
-  <div id="wakastats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=xmayuk_hx&theme=midnight-purple&border_radius=15&count_private=true" alt="Top Languages used by Mayukh" width=450/>
+    <div id="streakstats">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=xmayukx&theme=midnight-purple&border_radius=9&count_private=true" width=400>
+    </div>
   </div>
 </div>
+
+
