@@ -48,15 +48,11 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>&nbsp;&nbsp;&nbsp;
 <!-- style="display: flex; flex-direction: row;" -->
-<div align="center">
+<div>
   <div style="display: flex;">
-    <div id="githubstats">
-      <img src="https://github-readme-stats.vercel.app/api?username=xmayukx&theme=midnight-purple&show_icons=true&count_private=false&border_radius=10" alt="Mayukh's GitHub stats" width=380/>
-    </div>
     <div id="streakstats">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=xmayukx&theme=midnight-purple&border_radius=9&count_private=true&border_radius=10" width=380>
+      <img src="https://github-stats-alpha.vercel.app/api?username=xmayukx&cc=000&tc=fff&ic=fff&bc=000" width=380>
     </div>
   </div>
 </div>
-
 
