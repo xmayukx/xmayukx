@@ -48,10 +48,13 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>&nbsp;&nbsp;&nbsp;
 <!-- style="display: flex; flex-direction: row;" -->
-<div>
+<div align="center">
   <div style="display: flex;">
     <div id="streakstats">
       <img src="https://github-stats-alpha.vercel.app/api?username=xmayukx&cc=000&tc=fff&ic=fff&bc=000" width=380>
+    </div>
+   <div id="leetcode">
+     <img src="https://stats.justsong.cn/api/leetcode/?username=xmayuk_hx&theme=dark2" width=350>
     </div>
   </div>
 </div>
