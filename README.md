@@ -28,6 +28,6 @@
 <a href="https://mayukh918.hashnode.dev/" >![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white) </a>
 </div>&nbsp;&nbsp;&nbsp;
 
-![pf-stats](https://github-stats-alpha.vercel.app/api?username=xmayukx&cc=000&tc=fff&ic=fff&bc=000) [![GitHub Streak](https://streak-stats.demolab.com?user=xmayukx&theme=highcontrast&hide_border=true&border_radius=5&hide_total_contributions=true)](https://git.io/streak-stats)
+![pf-stats](https://github-stats-alpha.vercel.app/api?username=xmayukx&cc=000&tc=fff&ic=fff&bc=000&card_width=350) [![GitHub Streak](https://streak-stats.demolab.com?user=xmayukx&theme=highcontrast&hide_border=true&border_radius=5&&card_width=350&hide_total_contributions=true)](https://git.io/streak-stats)
 
 
