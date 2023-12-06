@@ -26,8 +26,13 @@
 <a href="mailto:hazari.mayukh77@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://mayukh918.hashnode.dev/" >![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white) </a>
-</div>&nbsp;&nbsp;&nbsp;
+</div>
+&nbsp;&nbsp;&nbsp;
 
-![pf-stats](https://github-stats-alpha.vercel.app/api?username=xmayukx&cc=000&tc=fff&ic=fff&bc=000&card_width=350) [![GitHub Streak](https://streak-stats.demolab.com?user=xmayukx&theme=highcontrast&hide_border=true&border_radius=5&&card_width=350&hide_total_contributions=true)](https://git.io/streak-stats)
+<div class='container'>
+    <img style="height: auto; width: 55%;" src="https://github-stats-alpha.vercel.app/api?username=xmayukx&cc=000&tc=fff&ic=fff&bc=000&card_width=350" alt="pf-stats" />
+     <img  style="height: auto; width: 40%;" src="https://streak-stats.demolab.com?user=xmayukx&theme=highcontrast&hide_border=true&border_radius=5&&card_width=350&hide_total_contributions=true" alt="GitHub Streak" />
+</div>
+
 
 
