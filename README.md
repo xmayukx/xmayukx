@@ -5,7 +5,7 @@ Full-Stack Web Developer
 ------------------------
 
 * 🌍  I'm located in India
-* 🖥️  Check out my portfolio at [mayukhazari.in](http://mhazari.in)
+* 🖥️  Check out my portfolio at [mhazari.in](http://mhazari.in)
 * ✉️  You can Reach me at [hazari.mayukh77@gmail.com](mailto:hazari.mayukh77@gmail.com)
 * 🧠  I'm learning DevOps and UI/UX
 * 🤝  I'm open to collaborating on SAAS ideas
